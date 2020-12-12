@@ -12,11 +12,13 @@
   },
   "author": "Fantasm4z",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Fantasm4z/CustomFiddlerHeaders/issues"
   },
   "homepage": "https://github.com/Fantasm4z/CustomFiddlerHeaders#readme",
   "dependencies": {
-    "clipboardy": "^2.3.0"
+    "clipboardy": "^2.3.0",
+    "colors": "^1.4.0"
   }
 }
